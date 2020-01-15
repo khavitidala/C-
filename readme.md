@@ -1,3 +1,4 @@
-Solusi yang ada di sini sudah teruji dengan mendapatkan Accept dari Online Judge TLX TOKI, namun secara efisiensi maupun clean code masih jauh dari sempurna. Jika anda sedang mengerjakan soal-soal di TLX TOKI, ada baiknya untuk berusaha seoptimal mungkin sebelum melihat solusi yang ada di sini. Perlu dicatat bahwa solusi yang diunggah bukan mutlak satu-satunya solusi yang ada. Ini hanya sebagian kecil buah pemikiran dari pengunggah.
+Soal-soal TLX TOKI dapat anda temukan di <a href="http://tlx.toki.id" target="_blank">TLX TOKI</a>
+Apa yang saya unggah ini merupakan contoh solusi yang saya kerjakan, tidak terafiliasi dengan pihak manapun.
 
 Ryan.
